@@ -2,7 +2,8 @@ public class Application {
     /**
      * This class contains a main method that allows you to manually test the HardcodedLogin challenge functionality.
      * No changes you make here affect the test case results. You must still run & pass the test cases.
-     * All implementation code should be written in the Lab class.
+     * Labb  A
+     * ll implementation code should be written in the Lab class.
      *
      * The Lab.arrayToString method should return all of the values in an array as a String: eg, {1, 2, 3}
      * should be formatted as "1 2 3"
